@@ -1,2 +1,2 @@
 # Parallax
-https://eduard-mychka.github.io/Parallax/.
+https://eduard-mychka.github.io/parallax-page/.
